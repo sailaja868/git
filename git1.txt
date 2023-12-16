@@ -1,3 +1,4 @@
 Hi,
 This is a sample file for continous download
+Git integration
 Thank you.
